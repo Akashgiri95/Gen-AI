@@ -17,6 +17,7 @@ evaluation. Built as part of a PGDM in AI & Data Science.
 | [06](06_advanced_agents/) | **Advanced Agents** | ReAct agents, dynamic LLM routing via middleware, and LangSmith tracing for observability |
 | [07](07_multi_agent_crewai/) | **Multi-Agent Systems (CrewAI)** | A crew of specialized agents collaborating on data analysis and reporting |
 | [08](08_llm_evaluation/) | **LLM Evaluation** | Quantitative evaluation — perplexity, ROUGE, BLEU, METEOR, exact match, toxicity, regard |
+| [09](09_langchain_agents/) | **LangChain Agents** | Building AI agents with tools, reasoning, multimodal inputs, evaluations, and production guardrails |
 
 ## Projects
 
